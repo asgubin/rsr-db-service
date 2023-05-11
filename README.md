@@ -1,5 +1,5 @@
 # rsr-db-service
-RESTful web-service
+RESTful web-service.
 Модуль ORM для программного комплекса RiskSpectrum PSA.
 
 ### Используемые технологии:
